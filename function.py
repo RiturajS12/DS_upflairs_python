@@ -1,5 +1,4 @@
 list = [10,22,88,2,36,6,2,45,75,37]
-
 def avg_finder(list):
     sum = 0
     for i in list:
